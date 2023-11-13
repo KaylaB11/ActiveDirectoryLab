@@ -1,6 +1,5 @@
 <h1>Active Directory Home Lab</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 In this lab, we're going to walk through how to create an Active Directory home lab environment using Oracle Virtual Box. Constructing and running this lab will help you develop your understanding of how active directory and windows networking works.  
@@ -68,7 +67,17 @@ Install The DHCP Server: <br/>
 <br />
 <br /> 
 Add The IP Address For The Server: <br/>
-<img src="https://imgur.com/NCmYE5w" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nQZIgQv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Create A New Virtual Machine: <br/>
+<img src="https://i.imgur.com/1KO0M25.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
+Check Your Internet Connection With The Two Servers: <br/>
+<img src="https://i.imgur.com/tTymE42.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br /> 
 </p>
 
 
